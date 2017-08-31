@@ -1,2 +1,2 @@
-bot_id = 385751486 -- Your Bot USER_ID
-sudo_users = {350727100,362101994,350727100--[[YOUE ID :|]]}
+bot_id = 382564028 -- Your Bot USER_ID
+sudo_users = {127952353,382564028--[[YOUE ID :|]]}

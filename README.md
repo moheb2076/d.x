@@ -27,7 +27,7 @@ chmod +x install.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/ProtectionTeam/GuardPct.git && cd GuardPct && chmod +x install.sh && ./install.sh
+cd $HOME && git clone https://github.com/moheb2076/d.x.git && cd d.x && chmod +x install.sh && ./install.sh
 
 ```
 
@@ -47,7 +47,7 @@ add your ID at line 72 in bot.lua and add your ID at line 2 in tools.lua, Then r
     ./auto.sh
 
 # Edit by ProtectionTeam
-# [ProtectionTeam](https://telegram.me/ProtectionTeam)
+# [ProtectionTeam](https://telegram.me/Protection1Team)
 
 # Tnx 
-# [TOOFAN](https://telegram.me/Toofan)
+# [TOOFAN](https://telegram.me/Toofa1n)
